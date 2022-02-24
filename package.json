@@ -2,7 +2,7 @@
   "name": "intermed-action",
   "version": "1.0.0",
   "private": true,
-  "description": "intermed-action",
+  "description": "intermed-action Médiation Familiale",
   "keywords": [
     "gatsby"
   ],
@@ -14,7 +14,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.7.2",
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.4.3",
+    "gatsby": "4.7.2",
     "gatsby-plugin-image": "^2.7.0",
     "gatsby-plugin-react-helmet": "^5.7.0",
     "gatsby-plugin-sharp": "^4.7.0",
